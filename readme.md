@@ -207,6 +207,9 @@ Data Viewer 是一个开源的TDMS和Execl数据回放查看器，源码采用Ac
 
 ![image](https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20View%20Green.PNG?raw=true)
 
+<video width="320" height="240" controls="controls">
+<source src="https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20Viewer.mp4" type="video/mp4">
+</video>
 
 
 <iframe src="https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20Viewer.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
