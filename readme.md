@@ -201,4 +201,7 @@ Data Viewer 是一个开源的TDMS和Execl数据回放查看器，源码采用Ac
 
 ## 4. 演示视频
 
-<iframe src="https://www.bilibili.com/video/BV1q44y1d76B/?spm_id_from=333.999.0.0" scrolling="no" border= "0" height=600 width=800></iframe>
+
+
+<iframe src="//player.bilibili.com/player.html?aid=989090208&bvid=BV1q44y1d76B&cid=932845221&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
