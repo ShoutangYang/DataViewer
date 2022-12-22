@@ -1,0 +1,108 @@
+2022-12-15 23:25:26  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-15 23:25:26  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 14:59:04  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 14:59:04  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 15:04:41  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 15:04:41  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 15:07:25  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 15:07:25  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 15:10:54  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 15:10:54  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 20:51:05  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 20:51:05  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:02:23  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:02:23  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:07:23  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:07:23  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:19:10  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:19:10  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:23:09  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:23:09  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:39:31  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:39:31  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 21:43:00  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 21:43:00  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 23:32:49  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:-2532 ;imessage:TDMS.lvclass:Read Data.vi->Data Loader.lvlib:Data Loader.lvclass:Select Channel.vi->Select Channel Msg.lvclass:Do.vi:3750001->Actor Framework.lvlib:Actor.lvclass:Receive Message.vi:1040005->Actor Framework.lvlib:Actor.lvclass:Actor Core.vi:5880001->Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640004->Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.11200002中的TDMS读取
+
+2022-12-21 23:32:49  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:-2532 ;imessage:TDMS.lvclass:Read Data.vi->Data Loader.lvlib:Data Loader.lvclass:Select Channel.vi->Select Channel Msg.lvclass:Do.vi:3750001->Actor Framework.lvlib:Actor.lvclass:Receive Message.vi:1040005->Actor Framework.lvlib:Actor.lvclass:Actor Core.vi:5880001->Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640004->Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.11200002中的TDMS读取
+
+2022-12-21 23:32:49  ----------->class name : Controller.lvlib:Controller.lvclass; code:-2532 ;imessage:TDMS.lvclass:Read Data.vi->Data Loader.lvlib:Data Loader.lvclass:Select Channel.vi->Select Channel Msg.lvclass:Do.vi:3750001->Actor Framework.lvlib:Actor.lvclass:Receive Message.vi:1040005->Actor Framework.lvlib:Actor.lvclass:Actor Core.vi:5880001->Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640004->Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.11200002中的TDMS读取
+
+2022-12-21 23:33:13  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:33:13  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 23:33:47  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:33:47  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 23:37:09  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:37:09  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 23:39:08  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:44:40  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:44:40  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-21 23:49:45  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-21 23:49:45  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 09:24:31  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 09:24:31  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 09:26:44  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 09:26:44  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 09:30:14  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 09:30:14  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 09:33:15  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 09:33:15  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 12:16:04  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 12:16:04  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 14:06:38  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 14:06:38  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 14:10:09  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 14:10:09  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
+2022-12-22 14:18:36  ----------->class name : Controller.lvlib:Controller.lvclass; code:0 ;imessage:
+
+2022-12-22 14:18:36  ----------->class name : Data Loader.lvlib:Data Loader.lvclass; code:0 ;imessage:
+
