@@ -42,15 +42,7 @@
 			</Item>
 			<Item Name="Data Loader.lvlib" Type="Library" URL="../Models/Data Loader/Data Loader/Data Loader.lvlib"/>
 		</Item>
-		<Item Name="Test " Type="Folder">
-			<Item Name="Test ALl BG.vi" Type="VI" URL="../Test/Test ALl BG.vi"/>
-			<Item Name="Test Controller.vi" Type="VI" URL="../Test/Test Controller.vi"/>
-			<Item Name="Test Loader.vi" Type="VI" URL="../Test/Test Loader.vi"/>
-			<Item Name="Test Setting.vi" Type="VI" URL="../Test/Test Setting.vi"/>
-			<Item Name="Test TDMS.vi" Type="VI" URL="../Test/Test TDMS.vi"/>
-			<Item Name="Test Tree.vi" Type="VI" URL="../Test/Test Tree.vi"/>
-			<Item Name="Test View  Main.vi" Type="VI" URL="../Test/Test View  Main.vi"/>
-		</Item>
+		<Item Name="Test " Type="Folder"/>
 		<Item Name="Views" Type="Folder">
 			<Item Name="Color Interface" Type="Folder">
 				<Item Name="Color Interface.lvclass" Type="LVClass" URL="../Views/Color Interface/Color Interface/Color Interface.lvclass"/>
@@ -146,7 +138,6 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="Logging Infor.vi" Type="VI" URL="../../../MVVM Framework/MVVM Abstruct Controller/MVVM Abstruct Controller/Utils/Logging Infor.vi"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="Play Pause.ctl" Type="VI" URL="../Controls/Play Pause.ctl"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
@@ -170,7 +161,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{73F48254-F4CD-4237-A9FD-F6A22F6A4343}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Data Viewer.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Release/Data Viewer.exe</Property>
@@ -197,7 +188,7 @@
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Test /Test Controller.vi</Property>
+				<Property Name="Source[3].itemID" Type="Ref"></Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
 				<Property Name="Source[4].Container.applyDestination" Type="Bool">true</Property>

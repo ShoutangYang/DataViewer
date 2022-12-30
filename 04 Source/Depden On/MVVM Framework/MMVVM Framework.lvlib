@@ -5,16 +5,16 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Data" Type="Folder">
-		<Item Name="Abstruct Data.lvclass" Type="LVClass" URL="../../../../../MVVM Framework/Abstruct Data/Abstruct Data.lvclass"/>
-		<Item Name="Enqueues Data.lvclass" Type="LVClass" URL="../../../../../MVVM Framework/Enqueues Data/Enqueues Data.lvclass"/>
+		<Item Name="Abstruct Data.lvclass" Type="LVClass" URL="../Abstruct Data/Abstruct Data.lvclass"/>
+		<Item Name="Enqueues Data.lvclass" Type="LVClass" URL="../Enqueues Data/Enqueues Data.lvclass"/>
 	</Item>
 	<Item Name="Interface" Type="Folder">
 		<Item Name="Message" Type="Folder">
-			<Item Name="Brocast Data Msg.lvclass" Type="LVClass" URL="../../../../../MVVM Framework/Model&amp;View Interface Messages/Brocast Data Msg/Brocast Data Msg.lvclass"/>
+			<Item Name="Brocast Data Msg.lvclass" Type="LVClass" URL="../Model&amp;View Interface Messages/Brocast Data Msg/Brocast Data Msg.lvclass"/>
 		</Item>
-		<Item Name="Model&amp;View Interface.lvclass" Type="LVClass" URL="../../../../../MVVM Framework/Model&amp;View Interface/Model&amp;View Interface.lvclass"/>
+		<Item Name="Model&amp;View Interface.lvclass" Type="LVClass" URL="../Model&amp;View Interface/Model&amp;View Interface.lvclass"/>
 	</Item>
-	<Item Name="MVVM Abstruct Controller.lvlib" Type="Library" URL="../../../../../MVVM Framework/MVVM Abstruct Controller/MVVM Abstruct Controller.lvlib"/>
-	<Item Name="MVVM Abstruct Model.lvlib" Type="Library" URL="../../../../../MVVM Framework/MVVM Abstruct Model/MVVM Abstruct Model.lvlib"/>
-	<Item Name="MVVM Abstruct View.lvlib" Type="Library" URL="../../../../../MVVM Framework/MVVM Abstruct View/MVVM Abstruct View.lvlib"/>
+	<Item Name="MVVM Abstruct Controller.lvlib" Type="Library" URL="../MVVM Abstruct Controller/MVVM Abstruct Controller.lvlib"/>
+	<Item Name="MVVM Abstruct Model.lvlib" Type="Library" URL="../MVVM Abstruct Model/MVVM Abstruct Model.lvlib"/>
+	<Item Name="MVVM Abstruct View.lvlib" Type="Library" URL="../MVVM Abstruct View/MVVM Abstruct View.lvlib"/>
 </Library>
