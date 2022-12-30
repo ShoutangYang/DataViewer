@@ -25,7 +25,17 @@ Data Viewer 是一个开源的TDMS和Execl数据回放查看器，源码采用Ac
 依赖：
 1. agilet_lib_mullistbox-1.0.0.2.vip
 
-## 3. 文件夹说明
+## 3. 启动
+
+1. 双击打开 " 04 source/ Data Viewer.lvproj";
+
+![image](https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20View%20Proj.png?raw=true)
+
+2. 打开并运行 "Test Controller.vi"
+
+![image](https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Launcher.png?raw=true)
+
+## 4. 文件夹说明
 ```
 ├─01 Design \\设计文档
 ├─02 Docs  \\文档
@@ -199,9 +209,9 @@ Data Viewer 是一个开源的TDMS和Execl数据回放查看器，源码采用Ac
     └─Version 1.0
 ```
 
-## 4. 演示视频
+## 5. 演示视频
 
-### 4.1 UI
+### 5.1 UI
 
 ![image](https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20View%20Blue.PNG?raw=true)
 
@@ -209,7 +219,7 @@ Data Viewer 是一个开源的TDMS和Execl数据回放查看器，源码采用Ac
 ![image](https://github.com/ShoutangYang/DataViewer/blob/master/02%20Docs/Data%20View%20Green.PNG?raw=true)
 
 
-## 4.2 B站视频链接
+## 5.2 B站视频链接
 
 [https://www.bilibili.com/video/BV1q44y1d76B/](https://www.bilibili.com/video/BV1q44y1d76B/)
 
